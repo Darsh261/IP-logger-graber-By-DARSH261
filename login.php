@@ -1,7 +1,5 @@
-
-// Note: Don't edit anything here
-
 <?php
+//Don't edit anything here
 // Function to get the client's IP address
 function getClientIP() {
     $ip = '';
@@ -40,7 +38,7 @@ $ipData[] = $userIP;
 // Save updated IP data to JSON file
 file_put_contents($jsonFile, json_encode($ipData));
 
-// Redirect the user to YouTube
+// Redirect the user to other Page
 header("Location: index2.html");
 
 
