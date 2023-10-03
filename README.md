@@ -8,5 +8,5 @@ Once Grabbed go to https://ipinfo.io/{Replace_with_IP}/json
 # Features
 It does IP grabing only but you can add more features and I will also try to bring new features.
 # How to import it in replit ?
-Tutorial :- iptutorial.darsh404.repl.co
+Tutorial :- https://iptutorial.darsh404.repl.co
  
