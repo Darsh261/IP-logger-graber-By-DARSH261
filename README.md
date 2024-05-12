@@ -1,7 +1,16 @@
 # IP-logger-graber-By-DARSH261
-It is a code not fully coded by me also done by ai
+A Script Which Can Grab The Visiters IP.
+This Took Time If You Mind <a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<p align="center">
+  <tr>
+    <th><a href="#user-account">User Account</a></th>
+    <td><img src="https://dcbadge.limes.pink/api/shield/406125028065804289" alt="" /></td>
+  </tr>
+
 # How to use ?
-You have to do nothing just use a host like replit because it is 24/7. Import it in replit, Run the program. That's it just send the link on the webpage and grab IPs.
+Nothing To Do That Much
+1. Copy the Link In Green Coloured "Code" Box.
+2. If you are on a Local Host Or A Dedicate Command Line Hosting So Type The Command
 
 # What to do with IP?
 Once Grabbed go to https://ipinfo.io/{Replace_with_IP}/json
