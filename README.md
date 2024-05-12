@@ -2,11 +2,6 @@
 A Script Which Can Grab The Visiters IP.
 This Took Time If You Mind <a href="https://www.buymeacoffee.com/galium" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <p align="center">
-  Having Trouble?
-  <tr>
-    <th><a href="#user-account"></th>
-    <td><img src="https://dcbadge.limes.pink/api/shield/1192421981665108054" alt="" /></td>
-  </tr>
 
 # How to use ?
 Nothing To Do That Much
